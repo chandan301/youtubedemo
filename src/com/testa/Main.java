@@ -13,4 +13,8 @@ public class Main {
     public void funb() {
         System.out.println("funb");
     }
+
+    public void func() {
+        System.out.println("func");
+    }
 }
