@@ -10,4 +10,7 @@ public class Main {
         System.out.println("funa");
     }
 
+    public void func() {
+        System.out.println("func");
+    }
 }
