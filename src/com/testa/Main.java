@@ -6,4 +6,8 @@ public class Main {
         System.out.println("hello github");
     }
 
+    public void funa() {
+        System.out.println("funa");
+    }
+
 }
