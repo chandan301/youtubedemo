@@ -17,4 +17,8 @@ public class Main {
     public void func() {
         System.out.println("func");
     }
+
+    public void fund() {
+        System.out.println("fund");
+    }
 }
