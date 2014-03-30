@@ -10,4 +10,7 @@ public class Main {
         System.out.println("funa");
     }
 
+    public void funb() {
+        System.out.println("funb");
+    }
 }
